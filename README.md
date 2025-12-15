@@ -1,2 +1,2 @@
-# Coding_at_38
+# Month1_Python_Basics
 Start learning coding and AI
